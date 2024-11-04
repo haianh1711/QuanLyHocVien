@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\admin\Documents\BAITAP\C#\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
